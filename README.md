@@ -39,7 +39,7 @@ The project is implemented in Python 3.x and requires the following libraries:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/AnomalyDetection.git
+   git clone https://github.com/Cebonkosi/AnomalyDetection.git
    cd AnomalyDetection
 
 ## Visualization
